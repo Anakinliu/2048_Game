@@ -1,6 +1,8 @@
 # 2048_Game
 HTML+CSS+JS 2048 Game
+
 用了一天时间，原生JS写的逻辑，部分游戏逻辑参考了[这个开源仓库](https://github.com/nnngu/js_game_2048)
+
 游戏得分没有按照2048游戏来，只是记录了最大数。
 
 截图：
